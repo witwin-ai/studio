@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwitwin_studio=self.webpackChunkwitwin_studio||[]).push([[9096],{79096:(e,i,t)=>{t.r(i),t.d(i,{ArchitectureModule:()=>c.i,createArchitectureServices:()=>c.S});var c=t(79189);t(15528)}}]);
