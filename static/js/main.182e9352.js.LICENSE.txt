@@ -149,10 +149,3 @@ Original licenses apply:
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-
-/**
- * postprocessing v6.39.1 build Fri Apr 17 2026
- * https://github.com/pmndrs/postprocessing
- * Copyright 2015-2026 Raoul van Rüschen
- * @license Zlib
- */
